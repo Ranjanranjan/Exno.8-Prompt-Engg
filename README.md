@@ -1,4 +1,4 @@
-# Exno.8-Prompt-Engg
+# Exno.8-To explore how various prompting techniques can be used to generate and manipulate audio content (e.g., music, sound effects, voice narration) using AI model
 # Date:21-05-2025
 # Register no.: 212222230116
 # Aim: 
@@ -63,6 +63,8 @@ Description: Voicemod SFX Lab enables the generation and customization of sound 
 ### Expected Output: 
 A generic instrumental without any clear genre or emotion.
 
+### Music Link:
+https://drive.google.com/file/d/1sczhn6vTQvQmYJaOoDp9exdtx-zFGPSB/view?usp=drive_link
 ### Observation: 
 Music is disorganized, lacks coherence, does not serve a specific purpose.
 
@@ -71,7 +73,8 @@ Music is disorganized, lacks coherence, does not serve a specific purpose.
 
 ### Expected Output: 
 Soft instrumental with repetitive chill beats.
-
+### Music Link:
+https://drive.google.com/file/d/1BxhGg6TRjPAWfXgckhxwUkEVmUlMPkBU/view?usp=drive_link
 ### Observation: 
 Suitable for background music, moderate quality, minimal emotion.
 
@@ -80,8 +83,10 @@ Suitable for background music, moderate quality, minimal emotion.
 
 ### Expected Output: 
 Emotion-rich, ambient music with layered textures, matching mood and pacing.
-
-Observation: High-quality result that sounds human-made, great for productivity or relaxation.
+### Music Link:
+https://drive.google.com/file/d/1jMlDlXVKBTwmR05o9T_r9MvJfAtrvsnj/view?usp=drive_link
+### Observation: 
+High-quality result that sounds human-made, great for productivity or relaxation.
 
 ## II. ElevenLabs – Voice Narration
 ### Naïve Prompt:
@@ -89,6 +94,9 @@ Observation: High-quality result that sounds human-made, great for productivity 
 
 ### Expected Output: 
 Flat, robotic narration of an unknown or random story.
+
+### Music Link:
+https://drive.google.com/file/d/1sczhn6vTQvQmYJaOoDp9exdtx-zFGPSB/view?usp=drive_link
 
 ### Observation: 
 No inflection, poor pacing, lacks listener engagement.
@@ -99,6 +107,9 @@ No inflection, poor pacing, lacks listener engagement.
 ### Expected Output: 
 Smoother tone, better pacing, some warmth in delivery.
 
+### Music Link:
+https://drive.google.com/file/d/1BxhGg6TRjPAWfXgckhxwUkEVmUlMPkBU/view?usp=drive_link
+
 ### Observation: 
 More pleasant voice, but still lacks variation in emotional highs/lows.
 
@@ -107,6 +118,9 @@ More pleasant voice, but still lacks variation in emotional highs/lows.
 
 ### Expected Output: 
 Highly engaging audio that mimics real human narration, with tone and emotional pacing.
+
+### Music Link:
+https://drive.google.com/file/d/1BxhGg6TRjPAWfXgckhxwUkEVmUlMPkBU/view?usp=drive_link
 
 ### Observation: 
 Feels like a professional audiobook narrator, suitable for real-world use.
@@ -118,6 +132,9 @@ Feels like a professional audiobook narrator, suitable for real-world use.
 ### Expected Output: 
 Random tone, possibly a buzz or beep.
 
+### Music Link:
+https://drive.google.com/file/d/1sczhn6vTQvQmYJaOoDp9exdtx-zFGPSB/view?usp=drive_link
+
 ### Observation: 
 Unusable, no connection to any use-case.
 
@@ -127,6 +144,9 @@ Unusable, no connection to any use-case.
 ### Expected Output: 
 A short, high-pitched chime.
 
+### Music Link:
+https://drive.google.com/file/d/1BxhGg6TRjPAWfXgckhxwUkEVmUlMPkBU/view?usp=drive_link
+
 ### Observation: 
 Usable in simple game design, fairly effective.
 
@@ -135,6 +155,9 @@ Usable in simple game design, fairly effective.
 
 ### Expected Output: 
 Crisp, sharp sound with techy vibes, layered audio design.
+
+### Music Link:
+https://drive.google.com/file/d/1BxhGg6TRjPAWfXgckhxwUkEVmUlMPkBU/view?usp=drive_link
 
 ### Observation: 
 Sounds professional, reusable in game development environments.
